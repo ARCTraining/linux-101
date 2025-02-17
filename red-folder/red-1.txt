@@ -1,0 +1,3 @@
+Some text is in this file!
+
+Text files might hold results or output from model runs.
