@@ -4,7 +4,7 @@
 
 ## First command
 
-The very first command you are going to use, down in the terminal, is `cd`: this will bring you to your home directory and let you follow the guidance given in the [tutorial slides here](https://murphyqm.github.io/research-software-dev/intro-to-linux-files/linux101.html#/title-slide).
+The very first command you are going to use, down in the terminal, is `cd`: this will bring you to your home directory and let you follow the guidance given in the [tutorial slides here](https://arctraining.github.io/rc-slides/linux101#/section).
 
 # After the course
 
